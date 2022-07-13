@@ -1,0 +1,4 @@
+.pio
+.vscode
+lib/zenoh-pico
+firmware.zip
